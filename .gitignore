@@ -1,0 +1,12 @@
+node_modules/
+playwright-report/
+npm-debug.log
+/.vscode/
+reports/
+allure-results/
+allure-report/
+node_modules/
+playwright-report/
+npm-debug.log
+/.vscode/
+package-lock.json
